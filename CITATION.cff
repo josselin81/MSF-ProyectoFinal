@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Efecto de la terapia de Presión Negativa en Úlceras de Pie
+  Diabético
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Leslie Avelladith
+    family-names: Marín Paredes
+    email: l20212506@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de Mexico
+  - given-names: Josselin
+    family-names: Gonzalez Garcia
+    email: l21210380@tectijuana.edu.mx
+    affiliation: Tecnologico Nacional de Mexico
+abstract: >-
+  Desarrollar un modelo matemático y diseñar un controlador
+  para la terapia de presión negativa aplicada a úlceras de
+  pie diabético, con el fin de regular dinámicamente la
+  extracción del exudado y la estimulación del tejido.
+keywords:
+  - 'Úlceras '
+  - Presión Negativa
+  - Perfusión sanguínea
+license: BSD-2-Clause
+date-released: '2025-05-09'
