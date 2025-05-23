@@ -1,13 +1,17 @@
 # MSF-ProyectoFinal 
 # Efecto de la terapia de Presión Negativa en Pie Diabético
+# Autor
+Gonzalez Garcia Josselin
 
-Objetivo
+Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: l21210380@tectijuana.edu.mx
+
+# Objetivo
 Desarrollar un modelo matemático y diseñar un controlador para la terapia de presión negativa aplicada a úlceras de pie diabético, con el fin de regular dinámicamente la extracción del exudado y la estimulación del tejido. Se busca analizar la respuesta tisular ante diferentes niveles de presión negativa.
 
-Descripción del efecto
+# Descripción del efecto
 La terapia de presión negativa (TPN) es una estrategia avanzada para el tratamiento de úlceras en pie diabético, basada en la aplicación de presión subatmosférica controlada sobre la herida. Este mecanismo favorece la eliminación de exudado, estimula la formación de tejido de granulación y mejora la perfusión sanguínea en el área afectada.
 
-Modelado del sistema fisiológico
+# Modelado del sistema fisiológico
 El comportamiento del tejido durante la terapia se modela mediante un circuito eléctrico de dos mallas:
 
 1. Malla de aplicación de presión:
