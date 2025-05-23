@@ -17,7 +17,6 @@ Q(t) representa el flujo inicial de exudado a través de la esponja.
 
 3. Malla de respuesta del tejido:
 Formada por un capacitor Ce en paralelo con un arreglo en serie de un resistor Rt y un capacitor Ct.
-
 Ce indica la capacidad de la esponja para almacenar temporalmente el exudado.
 Rt representa la resistencia del tejido a la absorción del fluido.
 Ct Modela la capacidad del tejido para acumular líquidos con el tiempo, como en casos de inflamación.
