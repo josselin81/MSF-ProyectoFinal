@@ -1,5 +1,4 @@
-# MSF-ProyectoFinal
-Efecto de la terapia de Presión Negativa en Pie Diabético
+# MSF-ProyectoFinal Efecto de la terapia de Presión Negativa en Pie Diabético
 
 Objetivo
 Desarrollar un modelo matemático y diseñar un controlador para la terapia de presión negativa aplicada a úlceras de pie diabético, con el fin de regular dinámicamente la extracción del exudado y la estimulación del tejido. Se busca analizar la respuesta tisular ante diferentes niveles de presión negativa.
