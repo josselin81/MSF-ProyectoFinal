@@ -28,4 +28,10 @@ Ct Modela la capacidad del tejido para acumular líquidos con el tiempo, como en
 5. Flujos del sistema
 Q(t) flujo inicial de exudado a través de la esponja.
 QA(t) Flujo arterial
-Q(t) - QA(t) Diferencia entre el flujo volumétrico total y el flujo arterial 
+Q(t) - QA(t) Diferencia entre el flujo volumétrico total y el flujo arterial
+
+# Docente
+Dr. Paul A. Valle
+
+Posgrado en Ciencias de la Ingeniería [PCI] y Departamento de Ingeniería Eléctrica y Electrónica [DIEE], Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: paul.valle@tectijuana.edu.mx
+
