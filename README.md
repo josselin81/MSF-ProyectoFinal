@@ -1,7 +1,7 @@
 # MSF-ProyectoFinal 
 # Efecto de la terapia de Presión Negativa en Pie Diabético
 # Autores
-Gonzalez Garcia Josselin
+González García Josselin
 
 Marín Paredes Leslie Avelladith
 
