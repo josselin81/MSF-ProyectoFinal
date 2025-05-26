@@ -1,7 +1,8 @@
 # MSF-ProyectoFinal 
 # Efecto de la terapia de Presión Negativa en Pie Diabético
-# Autor
+# Autores
 Gonzalez Garcia Josselin
+Marin Paredes Leslie Avelladith
 
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: l21210380@tectijuana.edu.mx
 
